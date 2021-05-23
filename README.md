@@ -20,7 +20,7 @@ Principal Component Analysis, or PCA, is a dimensionality-reduction method that 
 Three different classifiers were used to train the dataset and test it on the testing dataset to give accuracy, f1-score and logloss for LDA, PCA and Normal dataset. The three different classifiers used were: 1)SVC 2)MLP 3)KNN.
 For each classifier, each type of dataset was trained and testing was performed.
 
-## Comaprison:
+## Comparison:
 
 The comparison for each type of dataset and for each type of classifier was also done with the help of cross validation scores and correspomding boxplots were plotted.
 
