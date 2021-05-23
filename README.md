@@ -26,6 +26,6 @@ The comparison for each type of dataset and for each type of classifier was also
 
 ## Additional Classifiers:
 
-## Convolutional Neural Network:
+### Convolutional Neural Network:
 
 Analysing the state of our results achieved through https://arxiv.org/pdf/2004.07676v1.pdf the picture of convolutional neural network was brought in the project. Different variations of the CNN starting from the basic one and going all through EfficientNet and InceptionResnetV2 were implemented on the dataset provided. The results were analysed and compared with the previous classifiers.
