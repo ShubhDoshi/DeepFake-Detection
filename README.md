@@ -8,7 +8,7 @@ This repository includes 3 .ipynb and corresponding .py files. Each of them impl
 Frame capturing was done from all the videos such that some number(32) of evenly number of frames were extracted from all the videos. If any video is short, then the number of frames extracted were somewhat lesser than 32.
 After that, face detection was performed by 3 different face detection techniques: 1)DLIB 2)MediaPipe 3)MTCNN . All types of images were converted to 64 X 64 X 3 size and stored in the respective arrays.
 
-![alt text](https://github.com/[HardSavani]/[DeepFake-Detection]/blob/[main]/illustration.jpeg?raw=true)
+![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/illustration.jpeg?raw=true)
 
 ## Data Augmentation:
 Data Augmentation is applied by adding noise to the images for classifiers to learn better. Various noises were tried like Gausssian, Speckle and sp noise. Noise useful here was observed to gaussian which was meaningfully blurring the image, rest are not useful here.
