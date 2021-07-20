@@ -36,6 +36,4 @@ The comparison for each type of dataset and for each type of classifier was also
 
 Analysing the state of our results achieved through https://arxiv.org/pdf/2004.07676v1.pdf the picture of convolutional neural network was brought in the project. Different variations of the CNN starting from the basic one and going all through EfficientNet and InceptionResnetV2 were implemented on the dataset provided. The results were analysed and compared with the previous classifiers.
 
-![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/Efficient_Net.png?raw=true)
-
-![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/MobileNetV2.png?raw=true)
+![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/Efficient_Net.png?raw=true) | ![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/MobileNetV2.png?raw=true)
