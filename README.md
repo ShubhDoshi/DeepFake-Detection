@@ -1,6 +1,6 @@
 # DeepFake Detection
 
-The submission includes 3 .ipynb and corresponding .py files. Each of them implement one of the following 3 face detection techniques - DLIB, MediaPipe and MTCNN. All of these files follow the same procedure as written below.
+The repository includes 3 .ipynb and corresponding .py files. Each of them implement one of the following 3 face detection techniques - DLIB, MediaPipe and MTCNN. All of these files follow the same procedure as written below.
 
 ## Preprocessing:
 Frame capturing was done from all the videos such that some number(32) of evenly number of frames were extracted from all the videos. If any videa is short, then the number of frames extracted were somewhat lesser than 32.
