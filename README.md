@@ -1,9 +1,11 @@
 # DeepFake Detection
 
+Deepfakes can distort our perception of the truth and we need to develop a strategy to improve their detection. Deep Fakes are increasingly detrimental to privacy, social security, and democracy. We plan to achieve better accuracy in predicting real and fake videos.
+
 The repository includes 3 .ipynb and corresponding .py files. Each of them implement one of the following 3 face detection techniques - DLIB, MediaPipe and MTCNN. All of these files follow the same procedure as written below.
 
 ## Preprocessing:
-Frame capturing was done from all the videos such that some number(32) of evenly number of frames were extracted from all the videos. If any videa is short, then the number of frames extracted were somewhat lesser than 32.
+Frame capturing was done from all the videos such that some number(32) of evenly number of frames were extracted from all the videos. If any video is short, then the number of frames extracted were somewhat lesser than 32.
 After that, face detection was performed by 3 different face detection techniques: 1)DLIB 2)MediaPipe 3)MTCNN . All types of images were converted to 64 X 64 X 3 size and stored in the respective arrays.
 
 ## Data Augmentation:
