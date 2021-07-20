@@ -38,4 +38,4 @@ Analysing the state of our results achieved through https://arxiv.org/pdf/2004.0
 
 ![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/Efficient_Net.png?raw=true)
 
-![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/MobileNetV2.jpg?raw=true)
+![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/MobileNetV2.png?raw=true)
