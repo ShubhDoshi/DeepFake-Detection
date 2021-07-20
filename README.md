@@ -1,8 +1,8 @@
 # DeepFake Detection
 
-Deepfakes can distort our perception of the truth and we need to develop a strategy to improve their detection. Deep Fakes are increasingly detrimental to privacy, social security, and democracy. We plan to achieve better accuracy in predicting real and fake videos.
+Deepfakes are synthetic media in which a person in an existing image or video is replaced with someone else's likeness. Deep Fakes are increasingly detrimental to privacy, social security, and democracy.They can distort our perception of the truth and hence we need a strategy to improve their detection of the Deepfakes. Here, we have developed some prediction models to efficiently differentiate real and deepfake manipulated videos.
 
-The repository includes 3 .ipynb and corresponding .py files. Each of them implement one of the following 3 face detection techniques - DLIB, MediaPipe and MTCNN. All of these files follow the same procedure as written below.
+This repository includes 3 .ipynb and corresponding .py files. Each of them implement one of the following 3 face detection techniques - DLIB, MediaPipe and MTCNN. All of these files follow the same procedure as written below.
 
 ## Preprocessing:
 Frame capturing was done from all the videos such that some number(32) of evenly number of frames were extracted from all the videos. If any video is short, then the number of frames extracted were somewhat lesser than 32.
